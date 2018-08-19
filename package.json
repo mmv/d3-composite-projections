@@ -9,6 +9,7 @@
     "url": "http://geoexamples.com"
   },
   "main": "d3-composite-projections.js",
+  "module": "index",
   "jsnext:main": "index",
   "repository": {
     "type": "git",
